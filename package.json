@@ -1,9 +1,8 @@
 {
   "name": "pjpl",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "main": "build/index.js",
   "repository": "https://github.com/josvanos/PJPL.git",
-  "type": "module",
   "author": "Jos van Os",
   "files": [
     "build/**/*"
