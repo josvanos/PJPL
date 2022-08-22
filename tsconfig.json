@@ -2,8 +2,7 @@
   "compilerOptions": {
     "incremental": true /* Enable incremental compilation */,
     "target": "ESNext",
-    "module": "ESNext",
-    "moduleResolution": "Node",
+    "module": "CommonJS",
     "declaration": true /* Concatenate & emit output to single file.*/,
     "outDir": "./build" /* Redirect output to the directory. */,
     "esModuleInterop": true /* Enables intero between CommonJS and ES */,
