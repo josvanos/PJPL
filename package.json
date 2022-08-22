@@ -1,0 +1,20 @@
+{
+  "name": "pjpl",
+  "version": "0.0.1",
+  "main": "build/index.js",
+  "repository": "https://github.com/josvanos/PJPL.git",
+  "author": "Jos van Os",
+  "files": [
+    "build/**/*"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "jspdf": "^2.5.1"
+  }
+}

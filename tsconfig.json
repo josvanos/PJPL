@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "incremental": true /* Enable incremental compilation */,
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "declaration": true /* Concatenate & emit output to single file.*/,
+    "outDir": "./build" /* Redirect output to the directory. */,
+    "esModuleInterop": true /* Enables intero between CommonJS and ES */,
+    "skipLibCheck": true /* Skip type checking of declaration files. */,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true /* Disallow inconsistently */
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "**/__tests__/*"]
+}
