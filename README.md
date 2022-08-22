@@ -4,6 +4,10 @@ pdf generation framework inspired by MJML
 
 ## Installation
 
-`npm install pjpl`
+```
+npm install pjpl
+```
 
-`yarn add pjpl`
+```
+yarn add pjpl
+```

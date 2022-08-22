@@ -1,1 +1,0 @@
-import jsPDF from "jspdf";
